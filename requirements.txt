@@ -1,5 +1,6 @@
 
-ipywidgets==7.7.1
+ipywidgets
+widgetsnbextension==3.6.0
 jupyter-server==1.18.0
 jupyterlab-server==2.14.0
 jupyterlab-widgets==1.1.1
@@ -17,5 +18,3 @@ scipy==1.7.3
 seaborn==0.11.2
 statsmodels==0.13.2
 voila==0.3.5
-widgetsnbextension==3.6.0
-
