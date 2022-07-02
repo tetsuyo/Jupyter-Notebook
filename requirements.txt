@@ -1,6 +1,6 @@
 
 ipywidgets
-widgetsnbextension==3.6.0
+widgetsnbextension
 jupyter-server==1.18.0
 jupyterlab-server==2.14.0
 jupyterlab-widgets==1.1.1
