@@ -13,7 +13,6 @@ pingouin==0.5.2
 plotly==5.7.0
 pytz==2022.1
 pyvttbl==0.5.2.2
-pywin32==302
 scikit-learn==1.0.2
 scipy==1.8.1
 seaborn==0.11.2
